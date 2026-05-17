@@ -84,15 +84,6 @@ security-risk-assessments/
 
 ---
 
-## About HexLayer Security
-
-HexLayer Security is a woman-owned small business (WOSB) cybersecurity consulting firm specializing in HIPAA compliance for small and mid-size healthcare organizations.
-
-🌐 [hexlayersecurity.com](https://hexlayersecurity.com)  
-💼 [LinkedIn](https://linkedin.com/in/danarios)
-
----
-
 ## Disclaimer
 
 > All assessments in this repository are simulated and created for portfolio and educational purposes. Organization names, patient data, staff details, and all findings are entirely fictional and do not represent real healthcare organizations or real security engagements.
